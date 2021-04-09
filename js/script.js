@@ -43,7 +43,7 @@ function checkCommand(inputCommand){
        
         if(command === 'bio'){ commandBio();}
         else if(command === 'borrar'){ commandClear();}
-        else if(command === 'help'){  terminalBody.innerHTML +=  '<p class="msj">Escribe alguno de estos comandos: 🡫<p/>'; commandHelp(); }      
+        else if(command === 'help'){  terminalBody.innerHTML +=  '<p class="msj">Escribe alguno de estos comandos: ⬇️<p/>'; commandHelp(); }      
         else if(command === 'proyectos'){ commandProject();}
         else if(command === 'cv'){ commandResume();}
         else if(command === 'rrss'){ commandSocial();}

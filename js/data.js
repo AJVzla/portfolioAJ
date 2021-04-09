@@ -10,6 +10,7 @@ var data = {
   github: 'AJVzla',
   projects: [
     {name: 'ITM', url: 'https://ortopediaitm.com.ar/'},
+    {name: 'PatagonianWines', url: 'https://patagonianwines.com.ar/'},
     {name: 'Metis', url: 'https://www.metis.com.ar/'},
     {name: 'Golden Shield Capital', url: 'https://goldenshieldcapital.com/'},
     {name: 'LionGrove', url: 'https://liongrove.com/'},
