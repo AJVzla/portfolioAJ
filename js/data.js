@@ -20,7 +20,7 @@ var data = {
     {name: 'Produk Bons', url: 'https://ajvzla.github.io/tbons/'},
     {name: 'Tresseiscero', url: 'https://tresseiscero.com.ar/'}
   ],
-  resume: 'https://ajvzla.files.wordpress.com/2021/04/anthony_masyrubi.pdf',
+  resume: 'https://ajvzla.files.wordpress.com/2021/04/anthony_masyrubi-3.pdf',
   socials: [
     {name: 'LinkedIn', url: 'https://www.linkedin.com/in/anthony-mas-y-rubi/'},
     {name: 'GitHub', url: 'https://github.com/AJVzla'},
